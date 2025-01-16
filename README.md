@@ -1,7 +1,12 @@
 # Mobile-App-Security.Knowledge
 # Guide:
 ## by: AppDome.com
-https://www.appdome.com/how-to/mobile-app-security/
+[https://www.appdome.com/how-to/mobile-app-security/](https://www.appdome.com/how-to/)
+
+Category:
+- https://www.appdome.com/how-to/mobile-app-security/
+- https://www.appdome.com/how-to/mobile-malware-prevention/
+- https://www.appdome.com/how-to/mobile-bot-detection/
 
 List:
 - https://www.appdome.com/how-to/mobile-app-security/jailbreak-root-detection/
@@ -12,3 +17,4 @@ List:
 - ...
 - https://www.appdome.com/how-to/mobile-app-security/jailbreak-root-detection/detect-xposed-framework-protect-android-apps/
 - https://www.appdome.com/how-to/mobile-app-security/jailbreak-root-detection/build-root-detection-protect-android-apps/
+- https://www.appdome.com/how-to/mobile-malware-prevention/android-malware-detection/3-simple-steps-to-create-self-defending-android-apps-that-detect-zygisk-without-an-sdk-or-gateway/
