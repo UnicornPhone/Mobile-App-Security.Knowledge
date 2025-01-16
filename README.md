@@ -1,7 +1,11 @@
 # Mobile-App-Security.Knowledge
 # Guide:
 ## by: AppDome.com
-[https://www.appdome.com/how-to/mobile-app-security/](https://www.appdome.com/how-to/)
+Home:
+- https://www.appdome.com/
+
+Knowledgebase
+- https://www.appdome.com/how-to/
 
 Category:
 - https://www.appdome.com/how-to/mobile-app-security/
