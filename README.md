@@ -11,6 +11,7 @@ Category:
 - https://www.appdome.com/how-to/mobile-app-security/
 - https://www.appdome.com/how-to/mobile-malware-prevention/
 - https://www.appdome.com/how-to/mobile-bot-detection/
+- https://www.appdome.com/how-to/mobile-fraud-prevention-detection/
 
 List:
 - https://www.appdome.com/how-to/mobile-app-security/jailbreak-root-detection/
